@@ -4,6 +4,9 @@
   </head>
 
   <body>
+    <div id="calendar"></div>
+
+
     <script src="vendor/underscore-min.js"></script>
     <script src="vendor/jquery.min.js"></script>
     <script src="lib/event.js"></script>
@@ -12,7 +15,9 @@
     <script src="lib/calendar.js"></script>
 
     <script>
-      var calendar = new Calendar()
+      var calendar = new Calendar($("#calendar"))
+      calendar.changeDefaultDaysToDisplay(5)
+      calendar.draw()
     </script>
   </body>
 </html>
