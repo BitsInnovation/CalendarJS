@@ -1,0 +1,117 @@
+{
+  "options": {
+    "useShortDayNames": true,
+    "users": [
+      "THO 220"
+    ],
+    "businessHours": {
+      "start": 7,
+      "end": 24,
+      "limitDisplay": true
+    },
+    "allowCalEventOverlap": true
+  },
+  "events": [
+    {
+      "id": 29,
+      "start": "2016-08-22T08:30:00-04:00",
+      "end": "2016-08-22T10:00:00-04:00",
+      "title": "#29 - brinkley.17",
+      "free": false,
+      "userId": 0,
+      "username": "brinkley.17",
+      "state": "approved",
+      "reason": "This time is unavailable",
+      "url": "/reservations/29"
+    },
+    {
+      "id": 30,
+      "start": "2016-08-23T10:30:00-04:00",
+      "end": "2016-08-23T12:00:00-04:00",
+      "title": "#30 - brinkley.17",
+      "free": false,
+      "userId": 0,
+      "username": "brinkley.17",
+      "state": "approved",
+      "reason": "This time is unavailable",
+      "url": "/reservations/30"
+    },
+    {
+      "id": 31,
+      "start": "2016-08-24T08:00:00-04:00",
+      "end": "2016-08-24T10:00:00-04:00",
+      "title": "#31 - brinkley.17",
+      "free": false,
+      "userId": 0,
+      "username": "brinkley.17",
+      "state": "approved",
+      "reason": "This time is unavailable",
+      "url": "/reservations/31"
+    }
+  ],
+  "freebusys": [
+    {
+      "start": "2016-08-21T11:00:00-04:00",
+      "end": "2016-08-21T18:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-22T07:30:00-04:00",
+      "end": "2016-08-22T18:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-23T07:30:00-04:00",
+      "end": "2016-08-24T00:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-24T07:30:00-04:00",
+      "end": "2016-08-25T00:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-25T07:30:00-04:00",
+      "end": "2016-08-26T00:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-26T07:30:00-04:00",
+      "end": "2016-08-26T22:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-27T08:00:00-04:00",
+      "end": "2016-08-27T22:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-28T11:00:00-04:00",
+      "end": "2016-08-29T00:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    },
+    {
+      "start": "2016-08-29T07:30:00-04:00",
+      "end": "2016-08-30T00:00:00-04:00",
+      "userId": 0,
+      "free": true,
+      "reason": "The library is closed at this time."
+    }
+  ]
+}
