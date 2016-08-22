@@ -1,0 +1,18 @@
+#day {
+  float:left;
+  width: 200px;
+  height: 20px;
+  border: 1px solid #000;
+}
+
+#time {
+  width: 200px;
+  height: 20px;
+  border: 1px solid #000;
+}
+
+#increments {
+  float: left;
+  width: 200px;
+  height: 20px;
+}
